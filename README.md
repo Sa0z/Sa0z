@@ -15,6 +15,9 @@
 </div>
 
 <div align="center">
+  <a href="mailto:luiz.malafaia@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
   <a href="mailto:luiz.malafa@hotmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
