@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sa0z.sa0z" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sa0z" />
 </p>
 
 <p align="center">
